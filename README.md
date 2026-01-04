@@ -13,3 +13,16 @@ This portfolio showcases my practical projects, designs, and technical growth jo
 - Tools: Cisco Packet Tracer, Wireshark, GNS3, PuTTY
 - Operating Systems: Windows Server, Linux
 - Automation & DevOps (Learning): Python, Bash, Git, CI/CD
+
+- ## 🛠️ Technical Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,aws,python,bash,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Networking-Expert-blue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Security-Firewalls-red?style=for-the-badge&logo=securityscorecard" />
+</p>
+
