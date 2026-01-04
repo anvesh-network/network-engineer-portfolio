@@ -19,6 +19,13 @@ This portfolio showcases my practical projects, designs, and technical growth jo
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,aws,python,bash,git,github" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-Routers-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-Switches-blue?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Routing-OSPF | BGP | EIGRP-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Switching-VLAN | STP | Trunking-yellow?style=for-the-badge"/>
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Networking-Expert-blue?style=for-the-badge&logo=cisco" />
