@@ -4,6 +4,10 @@ I specialize in routing, switching, network security, and cloud networking with 
 Currently expanding my expertise in cloud networking, automation, and DevOps-driven infrastructure.
 This portfolio showcases my practical projects, designs, and technical growth journey.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="450"/>
+</p>
+
 ## 🛠️ Core Skills
 
 - Networking: TCP/IP, OSI Model, VLANs, Routing & Switching, DNS, DHCP, NAT, VPN
